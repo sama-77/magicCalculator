@@ -47,14 +47,18 @@ header
 header .logo
 
 {
-  width:60%;
+  width:40%;
   padding-left: 50px;
+  padding-top: 35px;
+
 }
 .Hero
 {
   display: flex;
   justify-content: center;
   padding: 0px 0px;
+  height: 100vh;
+  align-items: center;
 }
 
 .calculator
